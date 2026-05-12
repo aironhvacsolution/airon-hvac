@@ -67,7 +67,8 @@ body{
     background:
     linear-gradient(rgba(15,23,42,0.7),
     rgba(15,23,42,0.7)),
-    url('images/bg.jpg') center/cover;
+    url('acbg.jpg') center/cover no-repeat;
+
     display:flex;
     justify-content:center;
     align-items:center;
